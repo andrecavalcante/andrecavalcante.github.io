@@ -1,6 +1,6 @@
 <img src="jpg/logo.jpg" width="100">
 
-I am on [Twitter](https://twitter.com/abcborges)
+I'm on [Twitter](https://twitter.com/abcborges)
 
 ## Posts
 
