@@ -1,4 +1,4 @@
-[View my GitHub](https://github.com/andrecavalcante)
+[My GitHub](https://github.com/andrecavalcante)
 
 ## Projects
 
