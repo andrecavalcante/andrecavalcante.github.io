@@ -9,7 +9,9 @@
 ## Stories
 
 ### [Aprendizado de máquina e o problema de classificação](https://medium.com/@andrecavalcante/aprendizado-de-máquina-parte-2-classificação-2e6d2045407)
-<img src="jpg/post1.png" width="200" href="https://medium.com/@andrecavalcante/aprendizado-de-máquina-parte-2-classificação-2e6d2045407">
+<a href="https://medium.com/@andrecavalcante/aprendizado-de-máquina-parte-2-classificação-2e6d2045407">
+<img src="jpg/post1.png" width="200" >
+</a>  
 
 [See all my stories at Medium](https://medium.com/@andrecavalcante)   
 
