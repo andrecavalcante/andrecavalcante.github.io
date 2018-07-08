@@ -1,10 +1,10 @@
 <img src="jpg/logo.jpg" width="100">
 
-I'm on [Twitter](https://twitter.com/abcborges)
+[I'm on Twitter](https://twitter.com/abcborges)
 
-See all my stories at [Medium](https://medium.com/@andrecavalcante)   
+[My stories at Medium](https://medium.com/@andrecavalcante)   
 
-See all my projects at [GitHub](https://github.com/andrecavalcante)
+[My projects at GitHub](https://github.com/andrecavalcante)
 
 ## Stories
 
