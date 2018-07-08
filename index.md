@@ -16,4 +16,3 @@ My projects at [GitHub](https://github.com/andrecavalcante)
 </a>  
 
 ### [Prostate Segmentation in Magnetic Resonance using Unet](https://andrecavalcante.github.io/prostate_segmentation_unet)
-Source-code in Pytorch
