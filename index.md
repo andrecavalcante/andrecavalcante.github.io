@@ -7,6 +7,7 @@ My stories at [Medium](https://medium.com/@andrecavalcante)
 
 My projects at [GitHub](https://github.com/andrecavalcante)
 
+## Latest stories and projects
 
 ### [Aprendizado de Máquina e o Problema de Classificação](https://medium.com/@andrecavalcante/aprendizado-de-máquina-parte-2-classificação-2e6d2045407)
 
