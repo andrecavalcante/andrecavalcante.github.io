@@ -7,12 +7,12 @@ My stories at [Medium](https://medium.com/@andrecavalcante)
 
 My projects at [GitHub](https://github.com/andrecavalcante)
 
-### Last
 
-## [Aprendizado de Máquina e o Problema de Classificação](https://medium.com/@andrecavalcante/aprendizado-de-máquina-parte-2-classificação-2e6d2045407)
+### [Aprendizado de Máquina e o Problema de Classificação](https://medium.com/@andrecavalcante/aprendizado-de-máquina-parte-2-classificação-2e6d2045407)
+
 <a href="https://medium.com/@andrecavalcante/aprendizado-de-máquina-parte-2-classificação-2e6d2045407">
 <img src="jpg/post1.png" width="200" >
 </a>  
 
-## [Prostate Segmentation in Magnetic Resonance using Unet](https://andrecavalcante.github.io/prostate_segmentation_unet)
+### [Prostate Segmentation in Magnetic Resonance using Unet](https://andrecavalcante.github.io/prostate_segmentation_unet)
 
