@@ -1,5 +1,7 @@
 <img src="jpg/logo.jpg" width="100">
 
+I am on [Twitter](https://twitter.com/abcborges)
+
 ## Posts
 
 ### [Aprendizado de máquina e o problema de classificação](https://medium.com/@andrecavalcante/aprendizado-de-máquina-parte-2-classificação-2e6d2045407)
