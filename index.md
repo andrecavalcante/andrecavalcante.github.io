@@ -1,4 +1,6 @@
-[My Medium](https://medium.com/@andrecavalcante)
+<img src="jpg/logo.jpg" width="100">
+
+[My Medium](https://medium.com/@andrecavalcante)  
 
 [My GitHub](https://github.com/andrecavalcante)
 
