@@ -1,4 +1,2 @@
-# Prostate segmentation in magnetic resonance using Unet
+### Prostate segmentation in magnetic resonance using Unet
 Implemented in Pytorch. Julho de 2018
-
-# Test
