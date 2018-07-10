@@ -12,7 +12,11 @@ My projects at [GitHub](https://github.com/andrecavalcante)
 ### [Aprendizado de Máquina e o Problema de Classificação](https://medium.com/@andrecavalcante/aprendizado-de-máquina-parte-2-classificação-2e6d2045407)
 
 <a href="https://medium.com/@andrecavalcante/aprendizado-de-máquina-parte-2-classificação-2e6d2045407">
-<img src="jpg/post1.png" width="200" >
+<img src="jpg/post1.png" height="150" >
 </a>  
 
 ### [Prostate Segmentation in Magnetic Resonance using Unet](https://andrecavalcante.github.io/prostate_segmentation_unet)
+
+<a href="https://andrecavalcante.github.io/prostate_segmentation_unet">
+<img src="jpg/post2.png" height="300" >
+</a>
