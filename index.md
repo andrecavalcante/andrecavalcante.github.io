@@ -15,7 +15,7 @@ My projects at [GitHub](https://github.com/andrecavalcante)
 <img src="jpg/post1.png" height="150" >
 </a>  
 
-### [Prostate Segmentation in Magnetic Resonance using Unet](https://andrecavalcante.github.io/prostate_segmentation_unet)
+### [World model for prostate segmentation in magnetic resonance](https://andrecavalcante.github.io/prostate_segmentation_unet)
 
 
 <a href="https://andrecavalcante.github.io/prostate_segmentation_unet">
