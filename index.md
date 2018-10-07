@@ -1,7 +1,7 @@
 
 <img src="jpg/logo.jpg" width="100">
 
-I'm on [Twitter](https://twitter.com/abcborges), My stories at [Medium](https://medium.com/@andrecavalcante), My projects at [GitHub](https://github.com/andrecavalcante)
+I'm on [Twitter](https://twitter.com/abcborges), find my stories at [Medium](https://medium.com/@andrecavalcante), and my projects at [GitHub](https://github.com/andrecavalcante)
 
 ## Latest stories and projects
 
