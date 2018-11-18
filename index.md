@@ -11,9 +11,9 @@ I'm on [Twitter](https://twitter.com/abcborges), find my stories at [Medium](htt
 <img src="jpg/post1.png" height="150" >
 </a>  
 
-### [Prostate segmentation in magnetic resonance](https://andrecavalcante.github.io/prostate_segmentation_unet)
+### [Prostate segmentation in magnetic resonance](https://andrecavalcante.github.io/prostate_segmentation)
 
 
-<a href="https://andrecavalcante.github.io/prostate_segmentation_unet">
+<a href="https://andrecavalcante.github.io/prostate_segmentation">
 <img src="jpg/post2.png" height="150" >
 </a>
