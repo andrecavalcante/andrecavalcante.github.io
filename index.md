@@ -5,7 +5,7 @@ I'm on [Twitter](https://twitter.com/abcborges), find my stories at [Medium](htt
 
 ## Latest stories and projects
 
-### [Demonstração da máquina Perceptron (jupyter)](https://andrecavalcante.github.io/TEEE-aprendizado-de-maquina/perceptron.ipynb)
+### [Demonstração da máquina Perceptron (jupyter)](https://github.com/andrecavalcante/TEEE-aprendizado-de-maquina/blob/master/perceptron.ipynb)
 ```bash
  for amostra in dataset:
         g = w[0]*amostra[1] + w[1]*amostra[2]  + w0  # função discriminante
