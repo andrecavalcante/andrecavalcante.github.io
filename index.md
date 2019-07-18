@@ -1,5 +1,5 @@
 
-<img src="jpg/logo.jpg" width="100">
+<img src="jpg/logo.jpg" width="200">
 
 I'm on [Twitter](https://twitter.com/abcborges), find my stories at [Medium](https://medium.com/@andrecavalcante), and my projects at [GitHub](https://github.com/andrecavalcante)
 
