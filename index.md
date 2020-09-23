@@ -3,8 +3,12 @@
 
 I'm on [Twitter](https://twitter.com/abcborges), find my stories at [Medium](https://medium.com/@andrecavalcante), and my projects at [GitHub](https://github.com/andrecavalcante)
 
-## Latest stories and projects
+## News and projects
 
+### [Application of intepretability for lawsuit prediction in the energy sector (Talk at IWSSIP 2020)] (https://underline.io/lecture/2836-interpretability-of-machine-learning-models-application-for-lawsuit-prediction-in-the-energy-sector)
+<a href="https://underline.io/lecture/2836-interpretability-of-machine-learning-models-application-for-lawsuit-prediction-in-the-energy-sector">
+<img src="jpg/iwssip.png" height="150" >
+</a>  
 ### [Demonstração da máquina Perceptron (jupyter)](https://github.com/andrecavalcante/TEEE-aprendizado-de-maquina/blob/master/perceptron.ipynb)
 ```bash
  for amostra in dataset:
