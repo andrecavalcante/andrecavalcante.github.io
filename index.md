@@ -1,22 +1,6 @@
 
-
-<!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-img {
-  border-radius: 50%;
-}
-</style>
-</head>
-<body>
  
-<img src="jpg/logo.jpg" width="200" style="width:200px">
-
-</body>
-</html> 
-
+<img src="jpg/logo.jpg" width="100">
 
 
 I'm on [Twitter](https://twitter.com/abcborges), find my stories at [Medium](https://medium.com/@andrecavalcante), and my projects at [GitHub](https://github.com/andrecavalcante)
