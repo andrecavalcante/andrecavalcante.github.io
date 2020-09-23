@@ -5,7 +5,7 @@ I'm on [Twitter](https://twitter.com/abcborges), find my stories at [Medium](htt
 
 ## News and projects
 
-### [Application of intepretability for lawsuit prediction in the energy sector (Talk at IWSSIP 2020)] (https://underline.io/lecture/2836-interpretability-of-machine-learning-models-application-for-lawsuit-prediction-in-the-energy-sector)
+### [Application of intepretability for lawsuit prediction in the energy sector (Talk at IWSSIP 2020)] 
 <a href="https://underline.io/lecture/2836-interpretability-of-machine-learning-models-application-for-lawsuit-prediction-in-the-energy-sector">
 <img src="jpg/iwssip.png" height="150" >
 </a>  
