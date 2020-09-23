@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-img {
-  border-radius: 50%;
-}
-</style>
-</head>
-<body>
-
 
 <img src="jpg/logo.jpg" width="200" style="width:200px">
 
@@ -48,7 +36,3 @@ I'm on [Twitter](https://twitter.com/abcborges), find my stories at [Medium](htt
 <a href="https://andrecavalcante.github.io/prostate_segmentation">
 <img src="jpg/post2.png" height="150" >
 </a>
-
-</body>
-</html> 
-
