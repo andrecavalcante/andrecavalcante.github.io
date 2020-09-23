@@ -1,5 +1,8 @@
 
 <img src="jpg/logo.jpg" width="200">
+img {
+  border-radius: 50%;
+}
 
 I'm on [Twitter](https://twitter.com/abcborges), find my stories at [Medium](https://medium.com/@andrecavalcante), and my projects at [GitHub](https://github.com/andrecavalcante)
 
