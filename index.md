@@ -26,7 +26,7 @@ I'm on [Twitter](https://twitter.com/abcborges), check out projects at [GitHub](
 ```
       
 
-### [Aprendizado de máquina e o problema de Classificação (no math)](https://medium.com/@andrecavalcante/aprendizado-de-máquina-parte-2-classificação-2e6d2045407)
+### [Aprendizado de máquina e o problema de classificação (sem matemática)](https://medium.com/@andrecavalcante/aprendizado-de-máquina-parte-2-classificação-2e6d2045407)
 
 <a href="https://medium.com/@andrecavalcante/aprendizado-de-máquina-parte-2-classificação-2e6d2045407">
 <img src="jpg/post1.png" height="150" >
