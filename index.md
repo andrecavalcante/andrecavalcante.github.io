@@ -15,7 +15,7 @@ I'm on [Twitter](https://twitter.com/abcborges), check out projects at [GitHub](
 
 ### [Demonstração da máquina Perceptron](https://github.com/andrecavalcante/TEEE-aprendizado-de-maquina/blob/master/perceptron.ipynb)
 <a href="https://underline.io/lecture/2836-interpretability-of-machine-learning-models-application-for-lawsuit-prediction-in-the-energy-sector">
-<img src="jpg/perceptronPost3.png" height="150" >
+<img src="jpg/perceptron_post3.png" height="150" >
 </a>  
 
       
