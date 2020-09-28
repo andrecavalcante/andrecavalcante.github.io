@@ -13,8 +13,8 @@ I'm on [Twitter](https://twitter.com/abcborges), check out projects at [GitHub](
 <img src="jpg/iwssip.png" height="150" >
 </a>  
 
-### [Demonstração da máquina Perceptron](https://github.com/andrecavalcante/TEEE-aprendizado-de-maquina/blob/master/perceptron.ipynb)
-<a href="https://underline.io/lecture/2836-interpretability-of-machine-learning-models-application-for-lawsuit-prediction-in-the-energy-sector">
+### [Demonstração jupyter da máquina Perceptron](https://github.com/andrecavalcante/TEEE-aprendizado-de-maquina/blob/master/perceptron.ipynb)
+<a href="https://github.com/andrecavalcante/TEEE-aprendizado-de-maquina/blob/master/perceptron.ipynb">
 <img src="jpg/perceptron_post3.png" height="150" >
 </a>  
 
