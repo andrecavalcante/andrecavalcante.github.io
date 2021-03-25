@@ -7,11 +7,15 @@ I'm on [Twitter](https://twitter.com/abcborges), check out projects at [GitHub](
 
 ## News and projects
 
+### [A minimum implementation of importance weighted autoencoder (IWAE) in Pytorch](https://github.com/andrecavalcante/iwae)
+
+<a href="https://github.com/andrecavalcante/iwae">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/MnistExamples.png/480px-MnistExamples.png" height="150" >
+</a>  
+
 ### [Application of intepretability for lawsuit prediction in the energy sector: a talk at IWSSIP 2020](https://underline.io/lecture/2836-interpretability-of-machine-learning-models-application-for-lawsuit-prediction-in-the-energy-sector)
 
-<a href="https://underline.io/lecture/2836-interpretability-of-machine-learning-models-application-for-lawsuit-prediction-in-the-energy-sector">
-<img src="jpg/iwssip.png" height="150" >
-</a>  
+
 
 ### [Demonstração jupyter da máquina Perceptron](https://github.com/andrecavalcante/TEEE-aprendizado-de-maquina/blob/master/perceptron.ipynb)
 <a href="https://github.com/andrecavalcante/TEEE-aprendizado-de-maquina/blob/master/perceptron.ipynb">
